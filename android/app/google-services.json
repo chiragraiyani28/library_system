@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005636433625",
+    "project_id": "library-management-cb0b6",
+    "storage_bucket": "library-management-cb0b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005636433625:android:f80f37863089339a2ab0c8",
+        "android_client_info": {
+          "package_name": "com.example.pro2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005636433625-mm5b7sntuc5rce5t69enrgop2v0ioptv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrhw59wJ9yD15L3BStndPHY8BO0ZumkW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005636433625-mm5b7sntuc5rce5t69enrgop2v0ioptv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
